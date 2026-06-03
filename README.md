@@ -1,4 +1,4 @@
 # New_code
 This is my first repository.
-endl;
+cout<<endl;
 Aurther-nabin chaudhary
